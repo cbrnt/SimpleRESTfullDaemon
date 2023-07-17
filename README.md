@@ -1,3 +1,1 @@
 # SimpleRESTfullDaemon
-# SimpleRESTfullDaemon
-# SimpleRESTfullDaemon
